@@ -64,7 +64,7 @@ compare_df_cols(df2108,df2109,df2110,df2111,df2112,df2201,df2202,df2203,df2203,d
 As they all share the same structure, I combine them in a single database:
 ```
 tripdata <- 
-    rbindlist(list(df2108,df2109,df2110,df2111,df2112,df2201,df2202,df2203,df2203,df2204,df2205,df2206, df2207))
+    rbind(df2108,df2109,df2110,df2111,df2112,df2201,df2202,df2203,df2203,df2204,df2205,df2206, df2207)
 ```  
 
 # 3.0 Process
