@@ -38,5 +38,5 @@ Todo el análisis en R, paquetes principales: tidyverse, dplyr, ggplot2, lubrida
 
 # Limitaciones y qué puede ser mejorado
 
-Me parece un dataset bastante completo, al final descubrí que era de Chicago y se podría realizar una visualización en base a un mapa que mostrara las principales rutas y estaciones más usadas por cada tipo y poder ver claramente mihipótesis y poder potenciarl el análisis. También con información de edades se podría saber a quién , cómo y dónde poner anuncios para conseguir más suscriptores.
+Me parece un dataset bastante completo, al final descubrí que era de Chicago y se podría realizar una visualización en base a un mapa que mostrara las principales rutas y estaciones más usadas por cada tipo y poder ver claramente mihipótesis y poder potenciar el análisis. También con información de edades se podría saber a quién , cómo y dónde poner anuncios para conseguir más suscriptores.
 Obviamente también tengo limitaciones por ser mi primer proyecto y seguro que lo haré mucho mejor en el futuro si lo intento de nuevo.
