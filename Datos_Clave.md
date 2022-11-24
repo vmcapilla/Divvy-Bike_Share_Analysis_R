@@ -1,4 +1,4 @@
-# Fin del proyecto
+# Objetivo del proyecto
 
 El objetivo es conocer cómo se comportan los usuarios que son suscriptores y cómo lo hacen los que no lo son, así como intentar conocer por qué un usuario se haría miembro y cómo podemos dirigir el marketing para lograr una mayor retención.
 
@@ -19,9 +19,10 @@ Todo el análisis en R, paquetes principales: tidyverse, dplyr, ggplot2, lubrida
 # Resultado del análisis
 
 ## Distribución de viajes por semana:
-<img src="imagenes/week_minutes_user.png" width="400"/>
-<img src="imagenes/week_trips_user.png" width="400"/>
+<img src="imagenes/week_minutes_user.png" width="400"/> <img src="imagenes/week_trips_user.png" width="400"/>
 
+## Distribución de viajes por mes:
+<img src="imagenes/month_minutes_user.png" width="400"/> <img src="imagenes/month_trips_user.png" width="400"/>
 
 # Lecciones aprendidas y recomendaciones
 
