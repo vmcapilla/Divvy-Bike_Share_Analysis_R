@@ -1,4 +1,4 @@
-# Divvy-Bike_Share_Analysis_R
+# Divvy: Bike Sharing Company: Weekdays, Months and Stations Analysis. User vs Suscriptor 
 
 Proyecto Completo -> ProyectoCompleto.md (En inglés)
 
