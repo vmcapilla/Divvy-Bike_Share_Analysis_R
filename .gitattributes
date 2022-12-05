@@ -1,1 +1,2 @@
-tex/* linguist-vendored
+*.Rmd linguist-language=R
+*.nb.html linguist-vendored
